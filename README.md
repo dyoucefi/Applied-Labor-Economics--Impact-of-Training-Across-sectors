@@ -1,4 +1,4 @@
-# Applied-Labor-Economics--Impact-of-Training-Across-sectors
+# Applied-Labor-Economics-Impact-of-Training-Across-sectors (Morgane MONJOUR and Dalil YOUCEFI)
 
 Project of ENSAE's applied labor economics course: we assess the heterogenity of the impact of training on the duration of unemployment spells across sector and market tightess.
 
